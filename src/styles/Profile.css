@@ -1,0 +1,11 @@
+.Profile {
+
+}
+
+.Profile span.list-indicator {
+	font-weight: 700;
+}
+
+.Profile .item.list-map {
+	padding-left: 1.2em !important;
+}

@@ -1,0 +1,1016 @@
+{
+  "Bethel": [
+    {
+      "town": "Bethel",
+      "value": "0.23"
+    }
+  ],
+  "Bridgeport": [
+    {
+      "town": "Bridgeport",
+      "value": "0.246"
+    }
+  ],
+  "Brookfield": [
+    {
+      "town": "Brookfield",
+      "value": "0.241"
+    }
+  ],
+  "Danbury": [
+    {
+      "town": "Danbury",
+      "value": "0.208"
+    }
+  ],
+  "Darien": [
+    {
+      "town": "Darien",
+      "value": "0.34"
+    }
+  ],
+  "Easton": [
+    {
+      "town": "Easton",
+      "value": "0.254"
+    }
+  ],
+  "Fairfield": [
+    {
+      "town": "Fairfield",
+      "value": "0.251"
+    }
+  ],
+  "Greenwich": [
+    {
+      "town": "Greenwich",
+      "value": "0.259"
+    }
+  ],
+  "Monroe": [
+    {
+      "town": "Monroe",
+      "value": "0.254"
+    }
+  ],
+  "New Canaan": [
+    {
+      "town": "New Canaan",
+      "value": "0.319"
+    }
+  ],
+  "New Fairfield": [
+    {
+      "town": "New Fairfield",
+      "value": "0.238"
+    }
+  ],
+  "Newtown": [
+    {
+      "town": "Newtown",
+      "value": "0.257"
+    }
+  ],
+  "Norwalk": [
+    {
+      "town": "Norwalk",
+      "value": "0.193"
+    }
+  ],
+  "Redding": [
+    {
+      "town": "Redding",
+      "value": "0.235"
+    }
+  ],
+  "Ridgefield": [
+    {
+      "town": "Ridgefield",
+      "value": "0.299"
+    }
+  ],
+  "Shelton": [
+    {
+      "town": "Shelton",
+      "value": "0.189"
+    }
+  ],
+  "Sherman": [
+    {
+      "town": "Sherman",
+      "value": "0.215"
+    }
+  ],
+  "Stamford": [
+    {
+      "town": "Stamford",
+      "value": "0.22"
+    }
+  ],
+  "Stratford": [
+    {
+      "town": "Stratford",
+      "value": "0.192"
+    }
+  ],
+  "Trumbull": [
+    {
+      "town": "Trumbull",
+      "value": "0.258"
+    }
+  ],
+  "Weston": [
+    {
+      "town": "Weston",
+      "value": "0.324"
+    }
+  ],
+  "Westport": [
+    {
+      "town": "Westport",
+      "value": "0.288"
+    }
+  ],
+  "Wilton": [
+    {
+      "town": "Wilton",
+      "value": "0.305"
+    }
+  ],
+  "Avon": [
+    {
+      "town": "Avon",
+      "value": "0.243"
+    }
+  ],
+  "Berlin": [
+    {
+      "town": "Berlin",
+      "value": "0.209"
+    }
+  ],
+  "Bloomfield": [
+    {
+      "town": "Bloomfield",
+      "value": "0.136"
+    }
+  ],
+  "Bristol": [
+    {
+      "town": "Bristol",
+      "value": "0.208"
+    }
+  ],
+  "Burlington": [
+    {
+      "town": "Burlington",
+      "value": "0.262"
+    }
+  ],
+  "Canton": [
+    {
+      "town": "Canton",
+      "value": "0.218"
+    }
+  ],
+  "East Granby": [
+    {
+      "town": "East Granby",
+      "value": "0.251"
+    }
+  ],
+  "East Hartford": [
+    {
+      "town": "East Hartford",
+      "value": "0.224"
+    }
+  ],
+  "East Windsor": [
+    {
+      "town": "East Windsor",
+      "value": "0.203"
+    }
+  ],
+  "Enfield": [
+    {
+      "town": "Enfield",
+      "value": "0.188"
+    }
+  ],
+  "Farmington": [
+    {
+      "town": "Farmington",
+      "value": "0.213"
+    }
+  ],
+  "Glastonbury": [
+    {
+      "town": "Glastonbury",
+      "value": "0.252"
+    }
+  ],
+  "Granby": [
+    {
+      "town": "Granby",
+      "value": "0.241"
+    }
+  ],
+  "Hartford": [
+    {
+      "town": "Hartford",
+      "value": "0.249"
+    }
+  ],
+  "Hartland": [
+    {
+      "town": "Hartland",
+      "value": "0.209"
+    }
+  ],
+  "Manchester": [
+    {
+      "town": "Manchester",
+      "value": "0.216"
+    }
+  ],
+  "Marlborough": [
+    {
+      "town": "Marlborough",
+      "value": "0.241"
+    }
+  ],
+  "New Britain": [
+    {
+      "town": "New Britain",
+      "value": "0.233"
+    }
+  ],
+  "Newington": [
+    {
+      "town": "Newington",
+      "value": "0.181"
+    }
+  ],
+  "Plainville": [
+    {
+      "town": "Plainville",
+      "value": "0.2"
+    }
+  ],
+  "Rocky Hill": [
+    {
+      "town": "Rocky Hill",
+      "value": "0.201"
+    }
+  ],
+  "Simsbury": [
+    {
+      "town": "Simsbury",
+      "value": "0.251"
+    }
+  ],
+  "Southington": [
+    {
+      "town": "Southington",
+      "value": "0.215"
+    }
+  ],
+  "South Windsor": [
+    {
+      "town": "South Windsor",
+      "value": "0.23"
+    }
+  ],
+  "Suffield": [
+    {
+      "town": "Suffield",
+      "value": "0.197"
+    }
+  ],
+  "West Hartford": [
+    {
+      "town": "West Hartford",
+      "value": "0.225"
+    }
+  ],
+  "Wethersfield": [
+    {
+      "town": "Wethersfield",
+      "value": "0.193"
+    }
+  ],
+  "Windsor": [
+    {
+      "town": "Windsor",
+      "value": "0.207"
+    }
+  ],
+  "Windsor Locks": [
+    {
+      "town": "Windsor Locks",
+      "value": "0.175"
+    }
+  ],
+  "Barkhamsted": [
+    {
+      "town": "Barkhamsted",
+      "value": "0.221"
+    }
+  ],
+  "Bethlehem": [
+    {
+      "town": "Bethlehem",
+      "value": "0.217"
+    }
+  ],
+  "Bridgewater": [
+    {
+      "town": "Bridgewater",
+      "value": "0.179"
+    }
+  ],
+  "Canaan": [
+    {
+      "town": "Canaan",
+      "value": "0.141"
+    }
+  ],
+  "Colebrook": [
+    {
+      "town": "Colebrook",
+      "value": "0.182"
+    }
+  ],
+  "Cornwall": [
+    {
+      "town": "Cornwall",
+      "value": "0.242"
+    }
+  ],
+  "Goshen": [
+    {
+      "town": "Goshen",
+      "value": "0.193"
+    }
+  ],
+  "Harwinton": [
+    {
+      "town": "Harwinton",
+      "value": "0.198"
+    }
+  ],
+  "Kent": [
+    {
+      "town": "Kent",
+      "value": "0.221"
+    }
+  ],
+  "Litchfield": [
+    {
+      "town": "Litchfield",
+      "value": "0.197"
+    }
+  ],
+  "Morris": [
+    {
+      "town": "Morris",
+      "value": "0.19"
+    }
+  ],
+  "New Hartford": [
+    {
+      "town": "New Hartford",
+      "value": "0.232"
+    }
+  ],
+  "New Milford": [
+    {
+      "town": "New Milford",
+      "value": "0.22"
+    }
+  ],
+  "Norfolk": [
+    {
+      "town": "Norfolk",
+      "value": "0.199"
+    }
+  ],
+  "North Canaan": [
+    {
+      "town": "North Canaan",
+      "value": "0.179"
+    }
+  ],
+  "Plymouth": [
+    {
+      "town": "Plymouth",
+      "value": "0.199"
+    }
+  ],
+  "Roxbury": [
+    {
+      "town": "Roxbury",
+      "value": "0.187"
+    }
+  ],
+  "Salisbury": [
+    {
+      "town": "Salisbury",
+      "value": "0.184"
+    }
+  ],
+  "Sharon": [
+    {
+      "town": "Sharon",
+      "value": "0.112"
+    }
+  ],
+  "Thomaston": [
+    {
+      "town": "Thomaston",
+      "value": "0.211"
+    }
+  ],
+  "Torrington": [
+    {
+      "town": "Torrington",
+      "value": "0.187"
+    }
+  ],
+  "Warren": [
+    {
+      "town": "Warren",
+      "value": "0.202"
+    }
+  ],
+  "Washington": [
+    {
+      "town": "Washington",
+      "value": "0.146"
+    }
+  ],
+  "Watertown": [
+    {
+      "town": "Watertown",
+      "value": "0.222"
+    }
+  ],
+  "Winchester": [
+    {
+      "town": "Winchester",
+      "value": "0.159"
+    }
+  ],
+  "Woodbury": [
+    {
+      "town": "Woodbury",
+      "value": "0.211"
+    }
+  ],
+  "Chester": [
+    {
+      "town": "Chester",
+      "value": "0.193"
+    }
+  ],
+  "Clinton": [
+    {
+      "town": "Clinton",
+      "value": "0.193"
+    }
+  ],
+  "Cromwell": [
+    {
+      "town": "Cromwell",
+      "value": "0.197"
+    }
+  ],
+  "Deep River": [
+    {
+      "town": "Deep River",
+      "value": "0.224"
+    }
+  ],
+  "Durham": [
+    {
+      "town": "Durham",
+      "value": "0.237"
+    }
+  ],
+  "East Haddam": [
+    {
+      "town": "East Haddam",
+      "value": "0.23"
+    }
+  ],
+  "East Hampton": [
+    {
+      "town": "East Hampton",
+      "value": "0.215"
+    }
+  ],
+  "Essex": [
+    {
+      "town": "Essex",
+      "value": "0.186"
+    }
+  ],
+  "Haddam": [
+    {
+      "town": "Haddam",
+      "value": "0.205"
+    }
+  ],
+  "Killingworth": [
+    {
+      "town": "Killingworth",
+      "value": "0.208"
+    }
+  ],
+  "Middlefield": [
+    {
+      "town": "Middlefield",
+      "value": "0.204"
+    }
+  ],
+  "Middletown": [
+    {
+      "town": "Middletown",
+      "value": "0.181"
+    }
+  ],
+  "Old Saybrook": [
+    {
+      "town": "Old Saybrook",
+      "value": "0.205"
+    }
+  ],
+  "Portland": [
+    {
+      "town": "Portland",
+      "value": "0.205"
+    }
+  ],
+  "Westbrook": [
+    {
+      "town": "Westbrook",
+      "value": "0.146"
+    }
+  ],
+  "Ansonia": [
+    {
+      "town": "Ansonia",
+      "value": "0.231"
+    }
+  ],
+  "Beacon Falls": [
+    {
+      "town": "Beacon Falls",
+      "value": "0.219"
+    }
+  ],
+  "Bethany": [
+    {
+      "town": "Bethany",
+      "value": "0.238"
+    }
+  ],
+  "Branford": [
+    {
+      "town": "Branford",
+      "value": "0.169"
+    }
+  ],
+  "Cheshire": [
+    {
+      "town": "Cheshire",
+      "value": "0.217"
+    }
+  ],
+  "Derby": [
+    {
+      "town": "Derby",
+      "value": "0.226"
+    }
+  ],
+  "East Haven": [
+    {
+      "town": "East Haven",
+      "value": "0.188"
+    }
+  ],
+  "Guilford": [
+    {
+      "town": "Guilford",
+      "value": "0.216"
+    }
+  ],
+  "Hamden": [
+    {
+      "town": "Hamden",
+      "value": "0.181"
+    }
+  ],
+  "Madison": [
+    {
+      "town": "Madison",
+      "value": "0.269"
+    }
+  ],
+  "Meriden": [
+    {
+      "town": "Meriden",
+      "value": "0.196"
+    }
+  ],
+  "Middlebury": [
+    {
+      "town": "Middlebury",
+      "value": "0.225"
+    }
+  ],
+  "Milford": [
+    {
+      "town": "Milford",
+      "value": "0.19"
+    }
+  ],
+  "Naugatuck": [
+    {
+      "town": "Naugatuck",
+      "value": "0.225"
+    }
+  ],
+  "New Haven": [
+    {
+      "town": "New Haven",
+      "value": "0.221"
+    }
+  ],
+  "North Branford": [
+    {
+      "town": "North Branford",
+      "value": "0.196"
+    }
+  ],
+  "North Haven": [
+    {
+      "town": "North Haven",
+      "value": "0.198"
+    }
+  ],
+  "Orange": [
+    {
+      "town": "Orange",
+      "value": "0.224"
+    }
+  ],
+  "Oxford": [
+    {
+      "town": "Oxford",
+      "value": "0.252"
+    }
+  ],
+  "Prospect": [
+    {
+      "town": "Prospect",
+      "value": "0.183"
+    }
+  ],
+  "Seymour": [
+    {
+      "town": "Seymour",
+      "value": "0.218"
+    }
+  ],
+  "Southbury": [
+    {
+      "town": "Southbury",
+      "value": "0.22"
+    }
+  ],
+  "Wallingford": [
+    {
+      "town": "Wallingford",
+      "value": "0.189"
+    }
+  ],
+  "Waterbury": [
+    {
+      "town": "Waterbury",
+      "value": "0.25"
+    }
+  ],
+  "West Haven": [
+    {
+      "town": "West Haven",
+      "value": "0.211"
+    }
+  ],
+  "Wolcott": [
+    {
+      "town": "Wolcott",
+      "value": "0.217"
+    }
+  ],
+  "Woodbridge": [
+    {
+      "town": "Woodbridge",
+      "value": "0.226"
+    }
+  ],
+  "Bozrah": [
+    {
+      "town": "Bozrah",
+      "value": "0.185"
+    }
+  ],
+  "Colchester": [
+    {
+      "town": "Colchester",
+      "value": "0.245"
+    }
+  ],
+  "East Lyme": [
+    {
+      "town": "East Lyme",
+      "value": "0.186"
+    }
+  ],
+  "Franklin": [
+    {
+      "town": "Franklin",
+      "value": "0.202"
+    }
+  ],
+  "Griswold": [
+    {
+      "town": "Griswold",
+      "value": "0.249"
+    }
+  ],
+  "Groton": [
+    {
+      "town": "Groton",
+      "value": "0.198"
+    }
+  ],
+  "Lebanon": [
+    {
+      "town": "Lebanon",
+      "value": "0.199"
+    }
+  ],
+  "Ledyard": [
+    {
+      "town": "Ledyard",
+      "value": "0.234"
+    }
+  ],
+  "Lisbon": [
+    {
+      "town": "Lisbon",
+      "value": "0.188"
+    }
+  ],
+  "Lyme": [
+    {
+      "town": "Lyme",
+      "value": "0.166"
+    }
+  ],
+  "Montville": [
+    {
+      "town": "Montville",
+      "value": "0.183"
+    }
+  ],
+  "New London": [
+    {
+      "town": "New London",
+      "value": "0.194"
+    }
+  ],
+  "North Stonington": [
+    {
+      "town": "North Stonington",
+      "value": "0.233"
+    }
+  ],
+  "Norwich": [
+    {
+      "town": "Norwich",
+      "value": "0.224"
+    }
+  ],
+  "Old Lyme": [
+    {
+      "town": "Old Lyme",
+      "value": "0.205"
+    }
+  ],
+  "Preston": [
+    {
+      "town": "Preston",
+      "value": "0.172"
+    }
+  ],
+  "Salem": [
+    {
+      "town": "Salem",
+      "value": "0.246"
+    }
+  ],
+  "Sprague": [
+    {
+      "town": "Sprague",
+      "value": "0.194"
+    }
+  ],
+  "Stonington": [
+    {
+      "town": "Stonington",
+      "value": "0.189"
+    }
+  ],
+  "Voluntown": [
+    {
+      "town": "Voluntown",
+      "value": "0.196"
+    }
+  ],
+  "Waterford": [
+    {
+      "town": "Waterford",
+      "value": "0.195"
+    }
+  ],
+  "Andover": [
+    {
+      "town": "Andover",
+      "value": "0.214"
+    }
+  ],
+  "Bolton": [
+    {
+      "town": "Bolton",
+      "value": "0.205"
+    }
+  ],
+  "Columbia": [
+    {
+      "town": "Columbia",
+      "value": "0.222"
+    }
+  ],
+  "Coventry": [
+    {
+      "town": "Coventry",
+      "value": "0.202"
+    }
+  ],
+  "Ellington": [
+    {
+      "town": "Ellington",
+      "value": "0.247"
+    }
+  ],
+  "Hebron": [
+    {
+      "town": "Hebron",
+      "value": "0.247"
+    }
+  ],
+  "Mansfield": [
+    {
+      "town": "Mansfield",
+      "value": "0.091"
+    }
+  ],
+  "Somers": [
+    {
+      "town": "Somers",
+      "value": "0.179"
+    }
+  ],
+  "Stafford": [
+    {
+      "town": "Stafford",
+      "value": "0.215"
+    }
+  ],
+  "Tolland": [
+    {
+      "town": "Tolland",
+      "value": "0.247"
+    }
+  ],
+  "Union": [
+    {
+      "town": "Union",
+      "value": "0.17"
+    }
+  ],
+  "Vernon": [
+    {
+      "town": "Vernon",
+      "value": "0.18"
+    }
+  ],
+  "Willington": [
+    {
+      "town": "Willington",
+      "value": "0.176"
+    }
+  ],
+  "Ashford": [
+    {
+      "town": "Ashford",
+      "value": "0.206"
+    }
+  ],
+  "Brooklyn": [
+    {
+      "town": "Brooklyn",
+      "value": "0.228"
+    }
+  ],
+  "Canterbury": [
+    {
+      "town": "Canterbury",
+      "value": "0.223"
+    }
+  ],
+  "Chaplin": [
+    {
+      "town": "Chaplin",
+      "value": "0.216"
+    }
+  ],
+  "Eastford": [
+    {
+      "town": "Eastford",
+      "value": "0.193"
+    }
+  ],
+  "Hampton": [
+    {
+      "town": "Hampton",
+      "value": "0.188"
+    }
+  ],
+  "Killingly": [
+    {
+      "town": "Killingly",
+      "value": "0.203"
+    }
+  ],
+  "Plainfield": [
+    {
+      "town": "Plainfield",
+      "value": "0.224"
+    }
+  ],
+  "Pomfret": [
+    {
+      "town": "Pomfret",
+      "value": "0.254"
+    }
+  ],
+  "Putnam": [
+    {
+      "town": "Putnam",
+      "value": "0.209"
+    }
+  ],
+  "Scotland": [
+    {
+      "town": "Scotland",
+      "value": "0.228"
+    }
+  ],
+  "Sterling": [
+    {
+      "town": "Sterling",
+      "value": "0.283"
+    }
+  ],
+  "Thompson": [
+    {
+      "town": "Thompson",
+      "value": "0.196"
+    }
+  ],
+  "Windham": [
+    {
+      "town": "Windham",
+      "value": "0.188"
+    }
+  ],
+  "Woodstock": [
+    {
+      "town": "Woodstock",
+      "value": "0.214"
+    }
+  ]
+}
