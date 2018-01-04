@@ -1,5 +1,5 @@
 import React from 'react';
-import { Segment, Header, List } from 'semantic-ui-react';
+import { Segment, Header, Table } from 'semantic-ui-react';
 import * as _ from 'underscore';
 
 import '../styles/Profile.css';
@@ -8,19 +8,32 @@ import '../styles/Profile.css';
 
 export default class Profile extends React.Component {
 	render() {
+
 		let flat = _.chain(this.props.data)
 			.values()
 			.flatten()
-			.filter((d) => d.id === this.props.id)
+			// .filter((d) => (d.id === this.props.id) || (d.chamber === 'State' && d.type === 'map'))
+			.filter((d) => {
+				if (this.props.compare) {
+					return (d.id === this.props.id) || (d.chamber === 'State' && d.type === 'map');
+				} else {
+					return (d.id === this.props.id);
+				}
+			})
 			.value();
+		console.log(flat);
 
 		let name = flat[0] ? flat[0].district : '';
 		let items = flat.map((d, i) => {
+			let indicator = d.chamber === 'State' ? `CT: ${d.indicator}` : d.indicator;
+			let level = d.chamber === 'State' ? 'ct' : 'district';
 			return (
-				<List.Item key={i} className={`list-${d.type}`}>
-					{/* {icon} */}
-					<List.Content><span className="list-indicator">{d.indicator}: </span>{d.displayVal}</List.Content>
-				</List.Item>);
+				<Table.Row key={i}>
+					<Table.Cell className={`list-${d.type} list-${level}`}>{indicator}</Table.Cell>
+					<Table.Cell textAlign="right">{d.displayVal}</Table.Cell>
+				</Table.Row>
+			);
+
 		});
 
 		return (
@@ -29,9 +42,9 @@ export default class Profile extends React.Component {
 					<Header.Subheader>{this.props.rep.string}</Header.Subheader>
 					<Header.Subheader><a href={this.props.rep.url} target="_blank">Sponsored bills, 2017</a></Header.Subheader>
 				</Header>
-				<Segment attached>
-					<List relaxed>{items}</List>
-				</Segment>
+				<Table definition attached compact unstackable>
+					<Table.Body>{items}</Table.Body>
+				</Table>
 				<Segment attached secondary size="small">District contains all or parts of {this.props.towns.join(', ')}</Segment>
 			</div>
 		);

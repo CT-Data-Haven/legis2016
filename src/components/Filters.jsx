@@ -73,7 +73,11 @@ export default class Filters extends React.Component {
 								>
 								<Icon name={this.props.labeled ? 'check circle' : 'circle outline'} /> Map labels
 							</Button> */}
-							<Check onChange={this.props.onToggle} label="Show map labels" defaultChecked />
+							<Check name="labeled" onChange={this.props.onToggle} label="Show map labels" defaultChecked />
+						</Form.Field>
+
+						<Form.Field>
+							<Check name="compare" onChange={this.props.onToggle} label="Show statewide values" />
 						</Form.Field>
 
 					</Form>

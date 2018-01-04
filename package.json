@@ -2,6 +2,7 @@
   "name": "legis2016",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://camille-s.github.io/legis2016",
   "dependencies": {
     "@vx/legend": "0.0.143",
     "cartocolor": "^4.0.0",
@@ -10,6 +11,7 @@
     "d3-queue": "^3.0.7",
     "d3-request": "^1.0.6",
     "d3-scale": "^1.0.7",
+    "gh-pages": "^1.1.0",
     "leaflet": "^1.2.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -21,6 +23,8 @@
     "underscore": "^1.8.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",

@@ -26,14 +26,14 @@ class App extends React.Component {
 			data: [],
 			toMap: [],
 			topicData: [],
-			profileData: [],
 			chamber: 'Senate',
 			topic: 'Age',
 			indicator: 'Percent under age 18',
 			colorscale: scaleThreshold().domain([0, 1]).range(['#ccc']),
 			id: baseId.Senate,
 			overTowns: props.towns[baseId.Senate],
-			labeled: true
+			labeled: true,
+			compare: false
 		};
 	}
 
@@ -44,8 +44,8 @@ class App extends React.Component {
 	}
 
 	fetchData({ chamber, topic }) {
-		// return this.props.initData[chamber][topic][indicator];
-		return this.props.initData[chamber][topic];
+		// return this.props.initData[chamber][topic];
+		return _.mapObject(this.props.initData[chamber][topic], (arr, key) => arr.concat(this.props.initData['State'][topic][key]));
 	}
 
 	update(opts) {
@@ -93,9 +93,10 @@ class App extends React.Component {
 		});
 	};
 
-	handleToggle = (e) => {
+	handleToggle = (e, { name, value }) => {
 		this.setState({
-			labeled: !this.state.labeled
+			// labeled: !this.state.labeled
+			[name]: !this.state[name]
 		});
 	};
 
@@ -112,7 +113,6 @@ class App extends React.Component {
 	}
 
 	render() {
-
     	return (
     		<div className="App">
 				<Container>
@@ -157,6 +157,7 @@ class App extends React.Component {
 									topic={this.state.topic}
 									rep={this.props.reps[this.state.id]}
 									towns={this.state.overTowns}
+									compare={this.state.compare}
 								/>
 							</Grid.Column>
 						</Grid.Row>

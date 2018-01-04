@@ -2,10 +2,11 @@
 
 }
 
-.Profile span.list-indicator {
-	font-weight: 700;
+.Profile td.list-map {
+	padding-left: 1.2em !important;
 }
 
-.Profile .item.list-map {
-	padding-left: 1.2em !important;
+.Profile td.list-ct {
+	font-style: italic;
+	font-weight: 400 !important;
 }

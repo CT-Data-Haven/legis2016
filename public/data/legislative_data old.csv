@@ -186,7 +186,6 @@ State Senate District 33,Senate,Total population,99937,Age,table,",",1,1,033,610
 State Senate District 34,Senate,Total population,96262,Age,table,",",1,1,034,610U500US09034
 State Senate District 35,Senate,Total population,100982,Age,table,",",1,1,035,610U500US09035
 State Senate District 36,Senate,Total population,98830,Age,table,",",1,1,036,610U500US09036
-Connecticut,State,Total population,3588570,Age,table,",",1,1,,Connecticut
 State House District 1,House,Population under age 18,5081,Age,table,",",2,2,001,620L500US09001
 State House District 2,House,Population under age 18,5388,Age,table,",",2,2,002,620L500US09002
 State House District 3,House,Population under age 18,5975,Age,table,",",2,2,003,620L500US09003
@@ -374,7 +373,6 @@ State Senate District 33,Senate,Population under age 18,20298,Age,table,",",2,2,
 State Senate District 34,Senate,Population under age 18,17820,Age,table,",",2,2,034,610U500US09034
 State Senate District 35,Senate,Population under age 18,20321,Age,table,",",2,2,035,610U500US09035
 State Senate District 36,Senate,Population under age 18,24604,Age,table,",",2,2,036,610U500US09036
-Connecticut,State,Population under age 18,773652,Age,table,",",2,2,,Connecticut
 State House District 1,House,Percent under age 18,0.222,Age,map,.0%,3,3,001,620L500US09001
 State House District 2,House,Percent under age 18,0.221,Age,map,.0%,3,3,002,620L500US09002
 State House District 3,House,Percent under age 18,0.275,Age,map,.0%,3,3,003,620L500US09003
@@ -562,7 +560,6 @@ State Senate District 33,Senate,Percent under age 18,0.203,Age,map,.0%,3,3,033,6
 State Senate District 34,Senate,Percent under age 18,0.185,Age,map,.0%,3,3,034,610U500US09034
 State Senate District 35,Senate,Percent under age 18,0.201,Age,map,.0%,3,3,035,610U500US09035
 State Senate District 36,Senate,Percent under age 18,0.249,Age,map,.0%,3,3,036,610U500US09036
-Connecticut,State,Percent under age 18,0.216,Age,map,.0%,3,3,,Connecticut
 State House District 1,House,Population ages 65+,2540,Age,table,",",4,4,001,620L500US09001
 State House District 2,House,Population ages 65+,3323,Age,table,",",4,4,002,620L500US09002
 State House District 3,House,Population ages 65+,2156,Age,table,",",4,4,003,620L500US09003
@@ -750,7 +747,6 @@ State Senate District 33,Senate,Population ages 65+,18757,Age,table,",",4,4,033,
 State Senate District 34,Senate,Population ages 65+,17972,Age,table,",",4,4,034,610U500US09034
 State Senate District 35,Senate,Population ages 65+,15594,Age,table,",",4,4,035,610U500US09035
 State Senate District 36,Senate,Population ages 65+,16637,Age,table,",",4,4,036,610U500US09036
-Connecticut,State,Population ages 65+,555023,Age,table,",",4,4,,Connecticut
 State House District 1,House,Percent ages 65+,0.111,Age,map,.0%,5,5,001,620L500US09001
 State House District 2,House,Percent ages 65+,0.136,Age,map,.0%,5,5,002,620L500US09002
 State House District 3,House,Percent ages 65+,0.099,Age,map,.0%,5,5,003,620L500US09003
@@ -938,7 +934,6 @@ State Senate District 33,Senate,Percent ages 65+,0.188,Age,map,.0%,5,5,033,610U5
 State Senate District 34,Senate,Percent ages 65+,0.187,Age,map,.0%,5,5,034,610U500US09034
 State Senate District 35,Senate,Percent ages 65+,0.154,Age,map,.0%,5,5,035,610U500US09035
 State Senate District 36,Senate,Percent ages 65+,0.168,Age,map,.0%,5,5,036,610U500US09036
-Connecticut,State,Percent ages 65+,0.155,Age,map,.0%,5,5,,Connecticut
 State House District 1,House,Total population,22923,Race and ethnicity,table,",",1,6,001,620L500US09001
 State House District 2,House,Total population,24363,Race and ethnicity,table,",",1,6,002,620L500US09002
 State House District 3,House,Total population,21702,Race and ethnicity,table,",",1,6,003,620L500US09003
@@ -1126,7 +1121,6 @@ State Senate District 33,Senate,Total population,99937,Race and ethnicity,table,
 State Senate District 34,Senate,Total population,96262,Race and ethnicity,table,",",1,6,034,610U500US09034
 State Senate District 35,Senate,Total population,100982,Race and ethnicity,table,",",1,6,035,610U500US09035
 State Senate District 36,Senate,Total population,98830,Race and ethnicity,table,",",1,6,036,610U500US09036
-Connecticut,State,Total population,3588570,Race and ethnicity,table,",",1,6,,Connecticut
 State House District 1,House,Latino population,5220,Race and ethnicity,table,",",2,7,001,620L500US09001
 State House District 2,House,Latino population,2107,Race and ethnicity,table,",",2,7,002,620L500US09002
 State House District 3,House,Latino population,13866,Race and ethnicity,table,",",2,7,003,620L500US09003
@@ -1314,7 +1308,6 @@ State Senate District 33,Senate,Latino population,3367,Race and ethnicity,table,
 State Senate District 34,Senate,Latino population,8835,Race and ethnicity,table,",",2,7,034,610U500US09034
 State Senate District 35,Senate,Latino population,4602,Race and ethnicity,table,",",2,7,035,610U500US09035
 State Senate District 36,Senate,Latino population,10973,Race and ethnicity,table,",",2,7,036,610U500US09036
-Connecticut,State,Latino population,537728,Race and ethnicity,table,",",2,7,,Connecticut
 State House District 1,House,Percent Latino,0.228,Race and ethnicity,map,.0%,3,8,001,620L500US09001
 State House District 2,House,Percent Latino,0.086,Race and ethnicity,map,.0%,3,8,002,620L500US09002
 State House District 3,House,Percent Latino,0.639,Race and ethnicity,map,.0%,3,8,003,620L500US09003
@@ -1502,7 +1495,6 @@ State Senate District 33,Senate,Percent Latino,0.034,Race and ethnicity,map,.0%,
 State Senate District 34,Senate,Percent Latino,0.092,Race and ethnicity,map,.0%,3,8,034,610U500US09034
 State Senate District 35,Senate,Percent Latino,0.046,Race and ethnicity,map,.0%,3,8,035,610U500US09035
 State Senate District 36,Senate,Percent Latino,0.111,Race and ethnicity,map,.0%,3,8,036,610U500US09036
-Connecticut,State,Percent Latino,0.15,Race and ethnicity,map,.0%,3,8,,Connecticut
 State House District 1,House,White population,4353,Race and ethnicity,table,",",4,9,001,620L500US09001
 State House District 2,House,White population,19936,Race and ethnicity,table,",",4,9,002,620L500US09002
 State House District 3,House,White population,2622,Race and ethnicity,table,",",4,9,003,620L500US09003
@@ -1690,7 +1682,6 @@ State Senate District 33,Senate,White population,91860,Race and ethnicity,table,
 State Senate District 34,Senate,White population,79708,Race and ethnicity,table,",",4,9,034,610U500US09034
 State Senate District 35,Senate,White population,90619,Race and ethnicity,table,",",4,9,035,610U500US09035
 State Senate District 36,Senate,White population,74677,Race and ethnicity,table,",",4,9,036,610U500US09036
-Connecticut,State,White population,2464450,Race and ethnicity,table,",",4,9,,Connecticut
 State House District 1,House,Percent white,0.19,Race and ethnicity,map,.0%,5,10,001,620L500US09001
 State House District 2,House,Percent white,0.818,Race and ethnicity,map,.0%,5,10,002,620L500US09002
 State House District 3,House,Percent white,0.121,Race and ethnicity,map,.0%,5,10,003,620L500US09003
@@ -1878,7 +1869,6 @@ State Senate District 33,Senate,Percent white,0.919,Race and ethnicity,map,.0%,5
 State Senate District 34,Senate,Percent white,0.828,Race and ethnicity,map,.0%,5,10,034,610U500US09034
 State Senate District 35,Senate,Percent white,0.897,Race and ethnicity,map,.0%,5,10,035,610U500US09035
 State Senate District 36,Senate,Percent white,0.756,Race and ethnicity,map,.0%,5,10,036,610U500US09036
-Connecticut,State,Percent white,0.687,Race and ethnicity,map,.0%,5,10,,Connecticut
 State House District 1,House,Black population,11873,Race and ethnicity,table,",",6,11,001,620L500US09001
 State House District 2,House,Black population,862,Race and ethnicity,table,",",6,11,002,620L500US09002
 State House District 3,House,Black population,4364,Race and ethnicity,table,",",6,11,003,620L500US09003
@@ -2066,7 +2056,6 @@ State Senate District 33,Senate,Black population,1040,Race and ethnicity,table,"
 State Senate District 34,Senate,Black population,1972,Race and ethnicity,table,",",6,11,034,610U500US09034
 State Senate District 35,Senate,Black population,1927,Race and ethnicity,table,",",6,11,035,610U500US09035
 State Senate District 36,Senate,Black population,3882,Race and ethnicity,table,",",6,11,036,610U500US09036
-Connecticut,State,Black population,347674,Race and ethnicity,table,",",6,11,,Connecticut
 State House District 1,House,Percent black,0.518,Race and ethnicity,map,.0%,7,12,001,620L500US09001
 State House District 2,House,Percent black,0.035,Race and ethnicity,map,.0%,7,12,002,620L500US09002
 State House District 3,House,Percent black,0.201,Race and ethnicity,map,.0%,7,12,003,620L500US09003
@@ -2254,7 +2243,6 @@ State Senate District 33,Senate,Percent black,0.01,Race and ethnicity,map,.0%,7,
 State Senate District 34,Senate,Percent black,0.02,Race and ethnicity,map,.0%,7,12,034,610U500US09034
 State Senate District 35,Senate,Percent black,0.019,Race and ethnicity,map,.0%,7,12,035,610U500US09035
 State Senate District 36,Senate,Percent black,0.039,Race and ethnicity,map,.0%,7,12,036,610U500US09036
-Connecticut,State,Percent black,0.097,Race and ethnicity,map,.0%,7,12,,Connecticut
 State House District 1,House,Other race population,1477,Race and ethnicity,table,",",8,13,001,620L500US09001
 State House District 2,House,Other race population,1458,Race and ethnicity,table,",",8,13,002,620L500US09002
 State House District 3,House,Other race population,850,Race and ethnicity,table,",",8,13,003,620L500US09003
@@ -2442,7 +2430,6 @@ State Senate District 33,Senate,Other race population,3670,Race and ethnicity,ta
 State Senate District 34,Senate,Other race population,5747,Race and ethnicity,table,",",8,13,034,610U500US09034
 State Senate District 35,Senate,Other race population,3834,Race and ethnicity,table,",",8,13,035,610U500US09035
 State Senate District 36,Senate,Other race population,9298,Race and ethnicity,table,",",8,13,036,610U500US09036
-Connecticut,State,Other race population,238718,Race and ethnicity,table,",",8,13,,Connecticut
 State House District 1,House,Percent other race,0.064,Race and ethnicity,map,.0%,9,14,001,620L500US09001
 State House District 2,House,Percent other race,0.06,Race and ethnicity,map,.0%,9,14,002,620L500US09002
 State House District 3,House,Percent other race,0.039,Race and ethnicity,map,.0%,9,14,003,620L500US09003
@@ -2630,7 +2617,6 @@ State Senate District 33,Senate,Percent other race,0.037,Race and ethnicity,map,
 State Senate District 34,Senate,Percent other race,0.06,Race and ethnicity,map,.0%,9,14,034,610U500US09034
 State Senate District 35,Senate,Percent other race,0.038,Race and ethnicity,map,.0%,9,14,035,610U500US09035
 State Senate District 36,Senate,Percent other race,0.094,Race and ethnicity,map,.0%,9,14,036,610U500US09036
-Connecticut,State,Percent other race,0.067,Race and ethnicity,map,.0%,9,14,,Connecticut
 State House District 1,House,Total population,22923,Immigration,table,",",1,15,001,620L500US09001
 State House District 2,House,Total population,24363,Immigration,table,",",1,15,002,620L500US09002
 State House District 3,House,Total population,21702,Immigration,table,",",1,15,003,620L500US09003
@@ -2818,7 +2804,6 @@ State Senate District 33,Senate,Total population,99937,Immigration,table,",",1,1
 State Senate District 34,Senate,Total population,96262,Immigration,table,",",1,15,034,610U500US09034
 State Senate District 35,Senate,Total population,100982,Immigration,table,",",1,15,035,610U500US09035
 State Senate District 36,Senate,Total population,98830,Immigration,table,",",1,15,036,610U500US09036
-Connecticut,State,Total population,3588570,Immigration,table,",",1,15,,Connecticut
 State House District 1,House,Foreign-born population,6101,Immigration,table,",",2,16,001,620L500US09001
 State House District 2,House,Foreign-born population,3216,Immigration,table,",",2,16,002,620L500US09002
 State House District 3,House,Foreign-born population,3970,Immigration,table,",",2,16,003,620L500US09003
@@ -3006,7 +2991,6 @@ State Senate District 33,Senate,Foreign-born population,5834,Immigration,table,"
 State Senate District 34,Senate,Foreign-born population,8496,Immigration,table,",",2,16,034,610U500US09034
 State Senate District 35,Senate,Foreign-born population,5662,Immigration,table,",",2,16,035,610U500US09035
 State Senate District 36,Senate,Foreign-born population,21976,Immigration,table,",",2,16,036,610U500US09036
-Connecticut,State,Foreign-born population,503209,Immigration,table,",",2,16,,Connecticut
 State House District 1,House,Percent foreign-born,0.266,Immigration,map,.0%,3,17,001,620L500US09001
 State House District 2,House,Percent foreign-born,0.132,Immigration,map,.0%,3,17,002,620L500US09002
 State House District 3,House,Percent foreign-born,0.183,Immigration,map,.0%,3,17,003,620L500US09003
@@ -3194,7 +3178,6 @@ State Senate District 33,Senate,Percent foreign-born,0.058,Immigration,map,.0%,3
 State Senate District 34,Senate,Percent foreign-born,0.088,Immigration,map,.0%,3,17,034,610U500US09034
 State Senate District 35,Senate,Percent foreign-born,0.056,Immigration,map,.0%,3,17,035,610U500US09035
 State Senate District 36,Senate,Percent foreign-born,0.222,Immigration,map,.0%,3,17,036,610U500US09036
-Connecticut,State,Percent foreign-born,0.14,Immigration,map,.0%,3,17,,Connecticut
 State House District 1,House,Total households,10360,Households,table,",",1,18,001,620L500US09001
 State House District 2,House,Total households,9166,Households,table,",",1,18,002,620L500US09002
 State House District 3,House,Total households,8062,Households,table,",",1,18,003,620L500US09003
@@ -3382,7 +3365,6 @@ State Senate District 33,Senate,Total households,39897,Households,table,",",1,18
 State Senate District 34,Senate,Total households,36860,Households,table,",",1,18,034,610U500US09034
 State Senate District 35,Senate,Total households,40351,Households,table,",",1,18,035,610U500US09035
 State Senate District 36,Senate,Total households,34607,Households,table,",",1,18,036,610U500US09036
-Connecticut,State,Total households,1354713,Households,table,",",1,18,,Connecticut
 State House District 1,House,Owner-occupied households,1677,Households,table,",",2,19,001,620L500US09001
 State House District 2,House,Owner-occupied households,7331,Households,table,",",2,19,002,620L500US09002
 State House District 3,House,Owner-occupied households,1494,Households,table,",",2,19,003,620L500US09003
@@ -3570,7 +3552,6 @@ State Senate District 33,Senate,Owner-occupied households,32371,Households,table
 State Senate District 34,Senate,Owner-occupied households,27876,Households,table,",",2,19,034,610U500US09034
 State Senate District 35,Senate,Owner-occupied households,29857,Households,table,",",2,19,035,610U500US09035
 State Senate District 36,Senate,Owner-occupied households,25094,Households,table,",",2,19,036,610U500US09036
-Connecticut,State,Owner-occupied households,900223,Households,table,",",2,19,,Connecticut
 State House District 1,House,Homeownership rate,0.162,Households,map,.0%,3,20,001,620L500US09001
 State House District 2,House,Homeownership rate,0.8,Households,map,.0%,3,20,002,620L500US09002
 State House District 3,House,Homeownership rate,0.185,Households,map,.0%,3,20,003,620L500US09003
@@ -3758,7 +3739,6 @@ State Senate District 33,Senate,Homeownership rate,0.811,Households,map,.0%,3,20
 State Senate District 34,Senate,Homeownership rate,0.756,Households,map,.0%,3,20,034,610U500US09034
 State Senate District 35,Senate,Homeownership rate,0.74,Households,map,.0%,3,20,035,610U500US09035
 State Senate District 36,Senate,Homeownership rate,0.725,Households,map,.0%,3,20,036,610U500US09036
-Connecticut,State,Homeownership rate,0.665,Households,map,.0%,3,20,,Connecticut
 State House District 1,House,Cost-burdened households,4912,Households,table,",",4,21,001,620L500US09001
 State House District 2,House,Cost-burdened households,3285,Households,table,",",4,21,002,620L500US09002
 State House District 3,House,Cost-burdened households,4567,Households,table,",",4,21,003,620L500US09003
@@ -3946,7 +3926,6 @@ State Senate District 33,Senate,Cost-burdened households,12702,Households,table,
 State Senate District 34,Senate,Cost-burdened households,12164,Households,table,",",4,21,034,610U500US09034
 State Senate District 35,Senate,Cost-burdened households,12478,Households,table,",",4,21,035,610U500US09035
 State Senate District 36,Senate,Cost-burdened households,11533,Households,table,",",4,21,036,610U500US09036
-Connecticut,State,Cost-burdened households,497925,Households,table,",",4,21,,Connecticut
 State House District 1,House,Cost-burden rate,0.474,Households,map,.0%,5,22,001,620L500US09001
 State House District 2,House,Cost-burden rate,0.358,Households,map,.0%,5,22,002,620L500US09002
 State House District 3,House,Cost-burden rate,0.566,Households,map,.0%,5,22,003,620L500US09003
@@ -4134,7 +4113,6 @@ State Senate District 33,Senate,Cost-burden rate,0.318,Households,map,.0%,5,22,0
 State Senate District 34,Senate,Cost-burden rate,0.33,Households,map,.0%,5,22,034,610U500US09034
 State Senate District 35,Senate,Cost-burden rate,0.309,Households,map,.0%,5,22,035,610U500US09035
 State Senate District 36,Senate,Cost-burden rate,0.333,Households,map,.0%,5,22,036,610U500US09036
-Connecticut,State,Cost-burden rate,0.368,Households,map,.0%,5,22,,Connecticut
 State House District 1,House,Households with a vehicle,6391,Households,table,",",6,23,001,620L500US09001
 State House District 2,House,Households with a vehicle,8765,Households,table,",",6,23,002,620L500US09002
 State House District 3,House,Households with a vehicle,5164,Households,table,",",6,23,003,620L500US09003
@@ -4322,7 +4300,6 @@ State Senate District 33,Senate,Households with a vehicle,38429,Households,table
 State Senate District 34,Senate,Households with a vehicle,34817,Households,table,",",6,23,034,610U500US09034
 State Senate District 35,Senate,Households with a vehicle,38552,Households,table,",",6,23,035,610U500US09035
 State Senate District 36,Senate,Households with a vehicle,33360,Households,table,",",6,23,036,610U500US09036
-Connecticut,State,Households with a vehicle,1232084,Households,table,",",6,23,,Connecticut
 State House District 1,House,Percent of households with a vehicle,0.617,Households,map,.0%,7,24,001,620L500US09001
 State House District 2,House,Percent of households with a vehicle,0.956,Households,map,.0%,7,24,002,620L500US09002
 State House District 3,House,Percent of households with a vehicle,0.641,Households,map,.0%,7,24,003,620L500US09003
@@ -4510,7 +4487,6 @@ State Senate District 33,Senate,Percent of households with a vehicle,0.963,House
 State Senate District 34,Senate,Percent of households with a vehicle,0.945,Households,map,.0%,7,24,034,610U500US09034
 State Senate District 35,Senate,Percent of households with a vehicle,0.955,Households,map,.0%,7,24,035,610U500US09035
 State Senate District 36,Senate,Percent of households with a vehicle,0.964,Households,map,.0%,7,24,036,610U500US09036
-Connecticut,State,Percent of households with a vehicle,0.909,Households,map,.0%,7,24,,Connecticut
 State House District 1,House,Population ages 25+,14828,Education,table,",",1,25,001,620L500US09001
 State House District 2,House,Population ages 25+,17161,Education,table,",",1,25,002,620L500US09002
 State House District 3,House,Population ages 25+,13229,Education,table,",",1,25,003,620L500US09003
@@ -4698,7 +4674,6 @@ State Senate District 33,Senate,Population ages 25+,73015,Education,table,",",1,
 State Senate District 34,Senate,Population ages 25+,71442,Education,table,",",1,25,034,610U500US09034
 State Senate District 35,Senate,Population ages 25+,70836,Education,table,",",1,25,035,610U500US09035
 State Senate District 36,Senate,Population ages 25+,68083,Education,table,",",1,25,036,610U500US09036
-Connecticut,State,Population ages 25+,2466129,Education,table,",",1,25,,Connecticut
 State House District 1,House,Adults without high school degree,3472,Education,table,",",2,26,001,620L500US09001
 State House District 2,House,Adults without high school degree,925,Education,table,",",2,26,002,620L500US09002
 State House District 3,House,Adults without high school degree,4667,Education,table,",",2,26,003,620L500US09003
@@ -4886,7 +4861,6 @@ State Senate District 33,Senate,Adults without high school degree,3979,Education
 State Senate District 34,Senate,Adults without high school degree,5787,Education,table,",",2,26,034,610U500US09034
 State Senate District 35,Senate,Adults without high school degree,4318,Education,table,",",2,26,035,610U500US09035
 State Senate District 36,Senate,Adults without high school degree,2924,Education,table,",",2,26,036,610U500US09036
-Connecticut,State,Adults without high school degree,242932,Education,table,",",2,26,,Connecticut
 State House District 1,House,Percent of adults without high school degree,0.234,Education,map,.0%,3,27,001,620L500US09001
 State House District 2,House,Percent of adults without high school degree,0.054,Education,map,.0%,3,27,002,620L500US09002
 State House District 3,House,Percent of adults without high school degree,0.353,Education,map,.0%,3,27,003,620L500US09003
@@ -5074,7 +5048,6 @@ State Senate District 33,Senate,Percent of adults without high school degree,0.0
 State Senate District 34,Senate,Percent of adults without high school degree,0.081,Education,map,.0%,3,27,034,610U500US09034
 State Senate District 35,Senate,Percent of adults without high school degree,0.061,Education,map,.0%,3,27,035,610U500US09035
 State Senate District 36,Senate,Percent of adults without high school degree,0.043,Education,map,.0%,3,27,036,610U500US09036
-Connecticut,State,Percent of adults without high school degree,0.099,Education,map,.0%,3,27,,Connecticut
 State House District 1,House,Adults with bachelor's or higher,3419,Education,table,",",4,28,001,620L500US09001
 State House District 2,House,Adults with bachelor's or higher,8225,Education,table,",",4,28,002,620L500US09002
 State House District 3,House,Adults with bachelor's or higher,1458,Education,table,",",4,28,003,620L500US09003
@@ -5262,7 +5235,6 @@ State Senate District 33,Senate,Adults with bachelor's or higher,30286,Education
 State Senate District 34,Senate,Adults with bachelor's or higher,23571,Education,table,",",4,28,034,610U500US09034
 State Senate District 35,Senate,Adults with bachelor's or higher,25253,Education,table,",",4,28,035,610U500US09035
 State Senate District 36,Senate,Adults with bachelor's or higher,45100,Education,table,",",4,28,036,610U500US09036
-Connecticut,State,Adults with bachelor's or higher,938319,Education,table,",",4,28,,Connecticut
 State House District 1,House,Percent of adults with bachelor's or higher,0.231,Education,map,.0%,5,29,001,620L500US09001
 State House District 2,House,Percent of adults with bachelor's or higher,0.479,Education,map,.0%,5,29,002,620L500US09002
 State House District 3,House,Percent of adults with bachelor's or higher,0.11,Education,map,.0%,5,29,003,620L500US09003
@@ -5450,7 +5422,6 @@ State Senate District 33,Senate,Percent of adults with bachelor's or higher,0.41
 State Senate District 34,Senate,Percent of adults with bachelor's or higher,0.33,Education,map,.0%,5,29,034,610U500US09034
 State Senate District 35,Senate,Percent of adults with bachelor's or higher,0.356,Education,map,.0%,5,29,035,610U500US09035
 State Senate District 36,Senate,Percent of adults with bachelor's or higher,0.662,Education,map,.0%,5,29,036,610U500US09036
-Connecticut,State,Percent of adults with bachelor's or higher,0.38,Education,map,.0%,5,29,,Connecticut
 State House District 1,House,Median household income,30208,Income,map,"$,",1,30,001,620L500US09001
 State House District 2,House,Median household income,96818,Income,map,"$,",1,30,002,620L500US09002
 State House District 3,House,Median household income,26519,Income,map,"$,",1,30,003,620L500US09003
@@ -5638,7 +5609,6 @@ State Senate District 33,Senate,Median household income,87472,Income,map,"$,",1,
 State Senate District 34,Senate,Median household income,75554,Income,map,"$,",1,30,034,610U500US09034
 State Senate District 35,Senate,Median household income,77055,Income,map,"$,",1,30,035,610U500US09035
 State Senate District 36,Senate,Median household income,144566,Income,map,"$,",1,30,036,610U500US09036
-Connecticut,State,Median household income,71755,Income,map,"$,",1,30,,Connecticut
 State House District 1,House,Poverty status known,22541,Income,table,",",2,31,001,620L500US09001
 State House District 2,House,Poverty status known,24167,Income,table,",",2,31,002,620L500US09002
 State House District 3,House,Poverty status known,21403,Income,table,",",2,31,003,620L500US09003
@@ -5826,7 +5796,6 @@ State Senate District 33,Senate,Poverty status known,98968,Income,table,",",2,31
 State Senate District 34,Senate,Poverty status known,94788,Income,table,",",2,31,034,610U500US09034
 State Senate District 35,Senate,Poverty status known,99913,Income,table,",",2,31,035,610U500US09035
 State Senate District 36,Senate,Poverty status known,97971,Income,table,",",2,31,036,610U500US09036
-Connecticut,State,Poverty status known,3479672,Income,table,",",2,31,,Connecticut
 State House District 1,House,Population in poverty,7042,Income,table,",",3,32,001,620L500US09001
 State House District 2,House,Population in poverty,1053,Income,table,",",3,32,002,620L500US09002
 State House District 3,House,Population in poverty,8541,Income,table,",",3,32,003,620L500US09003
@@ -6014,7 +5983,6 @@ State Senate District 33,Senate,Population in poverty,5633,Income,table,",",3,32
 State Senate District 34,Senate,Population in poverty,5097,Income,table,",",3,32,034,610U500US09034
 State Senate District 35,Senate,Population in poverty,6718,Income,table,",",3,32,035,610U500US09035
 State Senate District 36,Senate,Population in poverty,5371,Income,table,",",3,32,036,610U500US09036
-Connecticut,State,Population in poverty,360464,Income,table,",",3,32,,Connecticut
 State House District 1,House,Poverty rate,0.312,Income,map,.0%,4,33,001,620L500US09001
 State House District 2,House,Poverty rate,0.044,Income,map,.0%,4,33,002,620L500US09002
 State House District 3,House,Poverty rate,0.399,Income,map,.0%,4,33,003,620L500US09003
@@ -6202,7 +6170,6 @@ State Senate District 33,Senate,Poverty rate,0.057,Income,map,.0%,4,33,033,610U5
 State Senate District 34,Senate,Poverty rate,0.054,Income,map,.0%,4,33,034,610U500US09034
 State Senate District 35,Senate,Poverty rate,0.067,Income,map,.0%,4,33,035,610U500US09035
 State Senate District 36,Senate,Poverty rate,0.055,Income,map,.0%,4,33,036,610U500US09036
-Connecticut,State,Poverty rate,0.104,Income,map,.0%,4,33,,Connecticut
 State House District 1,House,Low-income population,12274,Income,table,",",5,34,001,620L500US09001
 State House District 2,House,Low-income population,3614,Income,table,",",5,34,002,620L500US09002
 State House District 3,House,Low-income population,13912,Income,table,",",5,34,003,620L500US09003
@@ -6390,7 +6357,6 @@ State Senate District 33,Senate,Low-income population,15620,Income,table,",",5,3
 State Senate District 34,Senate,Low-income population,14152,Income,table,",",5,34,034,610U500US09034
 State Senate District 35,Senate,Low-income population,17833,Income,table,",",5,34,035,610U500US09035
 State Senate District 36,Senate,Low-income population,11627,Income,table,",",5,34,036,610U500US09036
-Connecticut,State,Low-income population,812120,Income,table,",",5,34,,Connecticut
 State House District 1,House,Low-income rate,0.545,Income,map,.0%,6,35,001,620L500US09001
 State House District 2,House,Low-income rate,0.15,Income,map,.0%,6,35,002,620L500US09002
 State House District 3,House,Low-income rate,0.65,Income,map,.0%,6,35,003,620L500US09003
@@ -6578,7 +6544,6 @@ State Senate District 33,Senate,Low-income rate,0.158,Income,map,.0%,6,35,033,61
 State Senate District 34,Senate,Low-income rate,0.149,Income,map,.0%,6,35,034,610U500US09034
 State Senate District 35,Senate,Low-income rate,0.178,Income,map,.0%,6,35,035,610U500US09035
 State Senate District 36,Senate,Low-income rate,0.119,Income,map,.0%,6,35,036,610U500US09036
-Connecticut,State,Low-income rate,0.233,Income,map,.0%,6,35,,Connecticut
 State House District 1,House,"Under 18, poverty status known",5015,Income by age: children,table,",",1,36,001,620L500US09001
 State House District 2,House,"Under 18, poverty status known",5192,Income by age: children,table,",",1,36,002,620L500US09002
 State House District 3,House,"Under 18, poverty status known",5905,Income by age: children,table,",",1,36,003,620L500US09003
@@ -6766,7 +6731,6 @@ State Senate District 33,Senate,"Under 18, poverty status known",20067,Income by
 State Senate District 34,Senate,"Under 18, poverty status known",17689,Income by age: children,table,",",1,36,034,610U500US09034
 State Senate District 35,Senate,"Under 18, poverty status known",19942,Income by age: children,table,",",1,36,035,610U500US09035
 State Senate District 36,Senate,"Under 18, poverty status known",24514,Income by age: children,table,",",1,36,036,610U500US09036
-Connecticut,State,"Under 18, poverty status known",763850,Income by age: children,table,",",1,36,,Connecticut
 State House District 1,House,Children in poverty,2159,Income by age: children,table,",",2,37,001,620L500US09001
 State House District 2,House,Children in poverty,180,Income by age: children,table,",",2,37,002,620L500US09002
 State House District 3,House,Children in poverty,2970,Income by age: children,table,",",2,37,003,620L500US09003
@@ -6954,7 +6918,6 @@ State Senate District 33,Senate,Children in poverty,1040,Income by age: children
 State Senate District 34,Senate,Children in poverty,1377,Income by age: children,table,",",2,37,034,610U500US09034
 State Senate District 35,Senate,Children in poverty,1612,Income by age: children,table,",",2,37,035,610U500US09035
 State Senate District 36,Senate,Children in poverty,1142,Income by age: children,table,",",2,37,036,610U500US09036
-Connecticut,State,Children in poverty,107690,Income by age: children,table,",",2,37,,Connecticut
 State House District 1,House,Child poverty rate,0.431,Income by age: children,map,.0%,3,38,001,620L500US09001
 State House District 2,House,Child poverty rate,0.035,Income by age: children,map,.0%,3,38,002,620L500US09002
 State House District 3,House,Child poverty rate,0.503,Income by age: children,map,.0%,3,38,003,620L500US09003
@@ -7142,7 +7105,6 @@ State Senate District 33,Senate,Child poverty rate,0.052,Income by age: children
 State Senate District 34,Senate,Child poverty rate,0.078,Income by age: children,map,.0%,3,38,034,610U500US09034
 State Senate District 35,Senate,Child poverty rate,0.081,Income by age: children,map,.0%,3,38,035,610U500US09035
 State Senate District 36,Senate,Child poverty rate,0.047,Income by age: children,map,.0%,3,38,036,610U500US09036
-Connecticut,State,Child poverty rate,0.141,Income by age: children,map,.0%,3,38,,Connecticut
 State House District 1,House,Low-income children,3624,Income by age: children,table,",",4,39,001,620L500US09001
 State House District 2,House,Low-income children,994,Income by age: children,table,",",4,39,002,620L500US09002
 State House District 3,House,Low-income children,4634,Income by age: children,table,",",4,39,003,620L500US09003
@@ -7330,7 +7292,6 @@ State Senate District 33,Senate,Low-income children,3309,Income by age: children
 State Senate District 34,Senate,Low-income children,3370,Income by age: children,table,",",4,39,034,610U500US09034
 State Senate District 35,Senate,Low-income children,3890,Income by age: children,table,",",4,39,035,610U500US09035
 State Senate District 36,Senate,Low-income children,2590,Income by age: children,table,",",4,39,036,610U500US09036
-Connecticut,State,Low-income children,229817,Income by age: children,table,",",4,39,,Connecticut
 State House District 1,House,Child low-income rate,0.723,Income by age: children,map,.0%,5,40,001,620L500US09001
 State House District 2,House,Child low-income rate,0.191,Income by age: children,map,.0%,5,40,002,620L500US09002
 State House District 3,House,Child low-income rate,0.785,Income by age: children,map,.0%,5,40,003,620L500US09003
@@ -7518,7 +7479,6 @@ State Senate District 33,Senate,Child low-income rate,0.165,Income by age: child
 State Senate District 34,Senate,Child low-income rate,0.191,Income by age: children,map,.0%,5,40,034,610U500US09034
 State Senate District 35,Senate,Child low-income rate,0.195,Income by age: children,map,.0%,5,40,035,610U500US09035
 State Senate District 36,Senate,Child low-income rate,0.106,Income by age: children,map,.0%,5,40,036,610U500US09036
-Connecticut,State,Child low-income rate,0.301,Income by age: children,map,.0%,5,40,,Connecticut
 State House District 1,House,"Ages 65+, poverty status known",2402,Income by age: seniors,table,",",1,41,001,620L500US09001
 State House District 2,House,"Ages 65+, poverty status known",3323,Income by age: seniors,table,",",1,41,002,620L500US09002
 State House District 3,House,"Ages 65+, poverty status known",2016,Income by age: seniors,table,",",1,41,003,620L500US09003
@@ -7706,7 +7666,6 @@ State Senate District 33,Senate,"Ages 65+, poverty status known",18174,Income by
 State Senate District 34,Senate,"Ages 65+, poverty status known",16950,Income by age: seniors,table,",",1,41,034,610U500US09034
 State Senate District 35,Senate,"Ages 65+, poverty status known",15087,Income by age: seniors,table,",",1,41,035,610U500US09035
 State Senate District 36,Senate,"Ages 65+, poverty status known",15978,Income by age: seniors,table,",",1,41,036,610U500US09036
-Connecticut,State,"Ages 65+, poverty status known",533413,Income by age: seniors,table,",",1,41,,Connecticut
 State House District 1,House,Seniors in poverty,682,Income by age: seniors,table,",",2,42,001,620L500US09001
 State House District 2,House,Seniors in poverty,194,Income by age: seniors,table,",",2,42,002,620L500US09002
 State House District 3,House,Seniors in poverty,676,Income by age: seniors,table,",",2,42,003,620L500US09003
@@ -7894,7 +7853,6 @@ State Senate District 33,Senate,Seniors in poverty,662,Income by age: seniors,ta
 State Senate District 34,Senate,Seniors in poverty,941,Income by age: seniors,table,",",2,42,034,610U500US09034
 State Senate District 35,Senate,Seniors in poverty,553,Income by age: seniors,table,",",2,42,035,610U500US09035
 State Senate District 36,Senate,Seniors in poverty,749,Income by age: seniors,table,",",2,42,036,610U500US09036
-Connecticut,State,Seniors in poverty,38003,Income by age: seniors,table,",",2,42,,Connecticut
 State House District 1,House,Senior poverty rate,0.284,Income by age: seniors,map,.0%,3,43,001,620L500US09001
 State House District 2,House,Senior poverty rate,0.058,Income by age: seniors,map,.0%,3,43,002,620L500US09002
 State House District 3,House,Senior poverty rate,0.335,Income by age: seniors,map,.0%,3,43,003,620L500US09003
@@ -8082,7 +8040,6 @@ State Senate District 33,Senate,Senior poverty rate,0.036,Income by age: seniors
 State Senate District 34,Senate,Senior poverty rate,0.056,Income by age: seniors,map,.0%,3,43,034,610U500US09034
 State Senate District 35,Senate,Senior poverty rate,0.037,Income by age: seniors,map,.0%,3,43,035,610U500US09035
 State Senate District 36,Senate,Senior poverty rate,0.047,Income by age: seniors,map,.0%,3,43,036,610U500US09036
-Connecticut,State,Senior poverty rate,0.071,Income by age: seniors,map,.0%,3,43,,Connecticut
 State House District 1,House,Low-income seniors,1331,Income by age: seniors,table,",",4,44,001,620L500US09001
 State House District 2,House,Low-income seniors,601,Income by age: seniors,table,",",4,44,002,620L500US09002
 State House District 3,House,Low-income seniors,1341,Income by age: seniors,table,",",4,44,003,620L500US09003
@@ -8270,7 +8227,6 @@ State Senate District 33,Senate,Low-income seniors,3352,Income by age: seniors,t
 State Senate District 34,Senate,Low-income seniors,3575,Income by age: seniors,table,",",4,44,034,610U500US09034
 State Senate District 35,Senate,Low-income seniors,2922,Income by age: seniors,table,",",4,44,035,610U500US09035
 State Senate District 36,Senate,Low-income seniors,2154,Income by age: seniors,table,",",4,44,036,610U500US09036
-Connecticut,State,Low-income seniors,122224,Income by age: seniors,table,",",4,44,,Connecticut
 State House District 1,House,Senior low-income rate,0.554,Income by age: seniors,map,.0%,5,45,001,620L500US09001
 State House District 2,House,Senior low-income rate,0.181,Income by age: seniors,map,.0%,5,45,002,620L500US09002
 State House District 3,House,Senior low-income rate,0.665,Income by age: seniors,map,.0%,5,45,003,620L500US09003
@@ -8458,4 +8414,3 @@ State Senate District 33,Senate,Senior low-income rate,0.184,Income by age: seni
 State Senate District 34,Senate,Senior low-income rate,0.211,Income by age: seniors,map,.0%,5,45,034,610U500US09034
 State Senate District 35,Senate,Senior low-income rate,0.194,Income by age: seniors,map,.0%,5,45,035,610U500US09035
 State Senate District 36,Senate,Senior low-income rate,0.135,Income by age: seniors,map,.0%,5,45,036,610U500US09036
-Connecticut,State,Senior low-income rate,0.229,Income by age: seniors,map,.0%,5,45,,Connecticut
