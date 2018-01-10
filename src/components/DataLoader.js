@@ -34,8 +34,8 @@ export const loadData = (callback = _.noop) => {
 const cleanData = (incoming) => {
 	incoming.forEach((d) => {
 		d.value = +d.value;
-		d.topicOrder = +d.topicOrder;
-		d.order = +d.order;
+		// d.topicOrder = +d.topicOrder;
+		// d.order = +d.order;
 		d.displayVal = format(d.format)(d.value);
 	});
 
@@ -44,7 +44,7 @@ const cleanData = (incoming) => {
 			d.value = +d.value;
 			d.displayVal = format(d.format)(d.value);
 		})
-		.sortBy('topicOrder', 'order', 'id')
+		// .sortBy('topicOrder', 'order', 'id')
 		.value();
 
 	return nest()
