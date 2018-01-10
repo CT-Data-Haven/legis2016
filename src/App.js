@@ -4,6 +4,7 @@ import { Container, Grid, Header } from 'semantic-ui-react';
 import * as _ from 'underscore';
 import { ckmeans } from 'simple-statistics';
 import { scaleThreshold } from 'd3-scale';
+import { nest } from 'd3-collection';
 import { RedOr } from 'cartocolor';
 import './App.css';
 
@@ -18,6 +19,7 @@ const upperShp = require('./components/shapes/upper.json');
 const shapes = { House: lowerShp, Senate: upperShp };
 
 const baseId = { Senate: '610U500US09001', House: '620L500US09001' };
+const reset = { chamber: 'Senate', topic: 'Community vitality', indicator: 'Local parks in good condition' };
 
 class App extends React.Component {
 	constructor(props) {
@@ -26,9 +28,9 @@ class App extends React.Component {
 			data: [],
 			toMap: [],
 			topicData: [],
-			chamber: 'Senate',
-			topic: 'Age',
-			indicator: 'Percent under age 18',
+			chamber: reset.chamber,
+			topic: reset.topic,
+			indicator: reset.indicator,
 			colorscale: scaleThreshold().domain([0, 1]).range(['#ccc']),
 			id: baseId.Senate,
 			overTowns: props.towns[baseId.Senate],
@@ -44,15 +46,19 @@ class App extends React.Component {
 	}
 
 	fetchData({ chamber, topic }) {
-		// return this.props.initData[chamber][topic];
-		return _.mapObject(this.props.initData[chamber][topic], (arr, key) => arr.concat(this.props.initData['State'][topic][key]));
+		// return _.mapObject(this.props.initData[chamber][topic], (arr, key) => arr.concat(this.props.initData['State'][topic][key]));
+		let chamberData = _.where(this.props.initData, { chamber: chamber, topic: topic });
+		let stateData = _.where(this.props.initData, { chamber: 'State', topic: topic });
+		return chamberData.concat(stateData);
 	}
 
 	update(opts) {
 		let indicator = opts.indicator;
-		let topicData = this.fetchData(opts);
+		let fetch = this.fetchData(opts);
+		let topicData = nest().key((d) => d.indicator).object(fetch);
 		let data = topicData[indicator];
 		let toMap = _.indexBy(data, 'id');
+
 
 		this.setState({
 			data,
@@ -72,6 +78,7 @@ class App extends React.Component {
 			});
 		}
 
+		// let indicator = name === 'topic' ? this.props.indics[value][0].indicator : this.state.indicator;
 		let indicator = name === 'topic' ? this.props.indics[value][0].indicator : this.state.indicator;
 		let { chamber, topic } = this.state;
 		let opts = { chamber, topic, indicator };
@@ -131,6 +138,7 @@ class App extends React.Component {
 									indicator={this.state.indicator}
 									labeled={this.state.labeled}
 									indics={this.props.indics}
+									chambers={this.props.chambers}
 									onChange={this.handleChange}
 									onToggle={this.handleToggle}
 								/>

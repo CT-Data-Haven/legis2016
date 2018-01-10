@@ -8,15 +8,29 @@ import '../styles/Filters.css';
 
 export default class Filters extends React.Component {
     render() {
-		// console.log(this.props.indics[this.props.topic]);
-		let topics = _.chain(this.props.indics)
-			.keys()
-			.map((d) => ({ key: d, value: d, text: d }))
+		let chambers = _.chain(this.props.chambers)
+			.values()
+			.map((d) => _.where(d, { chamber: this.props.chamber }))
+			.flatten()
+			.pluck('topic')
 			.value();
-		let indicators = this.props.indics[this.props.topic].map((d) => ({
-			key: d.indicator, value: d.indicator, text: d.indicator
-		}));
 
+		let topics = chambers.map((d) => ({ key: d, value: d, text: d }));
+
+		let indicators = !_.isEmpty(this.props.indics) ? this.props.indics[this.props.topic].map((d) => ({
+			key: d.indicator, value: d.indicator, text: d.indicator
+		})) : [];
+
+		let radios = !_.isEmpty(this.props.chambers) ? this.props.chambers[this.props.topic].map((d) => (
+			<Form.Radio
+				key={d.chamber}
+				name="chamber"
+				value={d.chamber}
+				label={d.chamber}
+				onChange={this.props.onChange}
+				checked={this.props.chamber === d.chamber}
+			/>
+		)) : [];
         return (
             <div className="Filters">
 
@@ -26,20 +40,8 @@ export default class Filters extends React.Component {
 							<Form.Field>
 								<label htmlFor="chamber">Select chamber</label>
 							</Form.Field>
-							<Form.Radio
-								name="chamber"
-								value="Senate"
-								label="Senate (upper chamber)"
-								checked={this.props.chamber === 'Senate'}
-								onChange={this.props.onChange}
-							/>
-							<Form.Radio
-								name="chamber"
-								value="House"
-								label="House (lower chamber)"
-								checked={this.props.chamber === 'House'}
-								onChange={this.props.onChange}
-							/>
+							{radios}
+
 						</Form.Group>
 
 						<Form.Group widths="equal">
@@ -64,15 +66,6 @@ export default class Filters extends React.Component {
 						</Form.Group>
 
 						<Form.Field>
-							{/* <Button
-								color={this.props.labeled ? 'teal' : 'grey'}
-								onClick={this.props.onToggle}
-								size="tiny"
-								icon
-								basic
-								>
-								<Icon name={this.props.labeled ? 'check circle' : 'circle outline'} /> Map labels
-							</Button> */}
 							<Check name="labeled" onChange={this.props.onToggle} label="Show map labels" defaultChecked />
 						</Form.Field>
 
