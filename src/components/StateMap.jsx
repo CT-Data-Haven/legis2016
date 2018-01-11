@@ -34,7 +34,7 @@ export default class StateMap extends React.Component {
 			.on('mouseout', this.removeHilite);
 		layer.bindTooltip(() => {
 			let data = this.props.data[id];
-			return `District ${+data.pad}: ${data.displayVal}`;
+			return `District ${+id.substr(-3)}: ${data.displayVal}`;
 		}, { direction: 'top', offset: [0, -20], className: 'custom-tip' });
 	};
 
@@ -53,7 +53,6 @@ export default class StateMap extends React.Component {
 	};
 
 	render() {
-		// console.log(typeof this.props.data);
 		return (
 			<div className="StateMap">
 				<Container>

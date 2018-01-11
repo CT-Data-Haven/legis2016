@@ -8,17 +8,22 @@ import '../styles/Filters.css';
 
 export default class Filters extends React.Component {
     render() {
-		let chambers = _.chain(this.props.chambers)
+		let indicsOpts = _.chain(this.props.chambers)
 			.values()
 			.map((d) => _.where(d, { chamber: this.props.chamber }))
 			.flatten()
 			.pluck('topic')
 			.value();
 
-		let topics = chambers.map((d) => ({ key: d, value: d, text: d }));
+		// invert? or find way to get displayTopic from topic
+		// let topics = indicsOpts.map((d) => ({ key: d, value: d, text: d }));
+		let info = _.values(this.props.meta);
+		let topics = indicsOpts.map((d) => {
+			return { key: d, value: d, text: _.where(info, { topic: d })[0].displayTopic };
+		});
 
 		let indicators = !_.isEmpty(this.props.indics) ? this.props.indics[this.props.topic].map((d) => ({
-			key: d.indicator, value: d.indicator, text: d.indicator
+			key: d.indicator, value: d.indicator, text: this.props.meta[d.indicator].displayIndicator
 		})) : [];
 
 		let radios = !_.isEmpty(this.props.chambers) ? this.props.chambers[this.props.topic].map((d) => (

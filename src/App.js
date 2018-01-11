@@ -19,7 +19,7 @@ const upperShp = require('./components/shapes/upper.json');
 const shapes = { House: lowerShp, Senate: upperShp };
 
 const baseId = { Senate: '610U500US09001', House: '620L500US09001' };
-const reset = { chamber: 'Senate', topic: 'Community vitality', indicator: 'Local parks in good condition' };
+const reset = { chamber: 'Senate', topic: 'civic', indicator: 'parks' };
 
 class App extends React.Component {
 	constructor(props) {
@@ -70,7 +70,6 @@ class App extends React.Component {
 	}
 
 	handleChange = (e, { name, value }) => {
-		console.log(name, value);
 		// set id to baseline if changing chamber
 		if (name === 'chamber') {
 			this.setState({
@@ -141,12 +140,13 @@ class App extends React.Component {
 									chambers={this.props.chambers}
 									onChange={this.handleChange}
 									onToggle={this.handleToggle}
+									meta={this.props.meta}
 								/>
 							</Grid.Column>
 						</Grid.Row>
 						<Grid.Row>
 							<Grid.Column width={10}>
-								<Header as="h4" block attached="top">{this.state.indicator}</Header>
+								<Header as="h4" block attached="top">{this.props.meta[this.state.indicator].displayIndicator}</Header>
 								<StateMap
 									data={this.state.toMap}
 									shapes={shapes}
@@ -162,7 +162,10 @@ class App extends React.Component {
 								<Profile
 									data={this.state.topicData}
 									id={this.state.id}
+									chamber={this.state.chamber}
+									meta={this.props.meta}
 									topic={this.state.topic}
+									indicator={this.state.indicator}
 									rep={this.props.reps[this.state.id]}
 									towns={this.state.overTowns}
 									compare={this.state.compare}

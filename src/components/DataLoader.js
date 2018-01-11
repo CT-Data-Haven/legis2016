@@ -5,16 +5,19 @@ import { nest } from 'd3-collection';
 import * as _ from 'underscore';
 import { uniqWith } from 'lodash';
 
-const url1 = './data/legislative_data.csv';
+// const url1 = './data/legislative_data.csv';
+const url1 = './data/legislative_data_clean.csv';
 const url2 = './data/legis_names.csv';
 const url3 = './data/town_x_district.csv';
+const url4 = './data/meta.csv';
 
 export const loadData = (callback = _.noop) => {
 	queue()
 		.defer(csv, url1)
 		.defer(csv, url2)
 		.defer(csv, url3)
-		.await((error, datacsv, repcsv, towncsv) => {
+		.defer(csv, url4)
+		.await((error, datacsv, repcsv, towncsv, metacsv) => {
 			if (error) throw error;
 
 			let data = cleanData(datacsv);
@@ -22,13 +25,15 @@ export const loadData = (callback = _.noop) => {
 			let chambers = makeChambers(datacsv);
 			let reps = _.indexBy(repcsv, 'id');
 			let towns = makeTowns(towncsv);
+			let meta = _.indexBy(metacsv, 'indicator');
 
 			callback({
 				initData: data,
 				indics: indics,
 				chambers: chambers,
 				reps: reps,
-				towns: towns
+				towns: towns,
+				meta: meta
 			});
 		});
 };
