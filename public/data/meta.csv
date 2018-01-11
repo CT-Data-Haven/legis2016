@@ -1,11 +1,11 @@
 displayIndicator,topic,displayTopic,indicator
-Local parks in good condition,civic,Community vitality,parks
+Feel local parks in good condition,civic,Community vitality,parks
 Feel safe walking at night,civic,Community vitality,safe
 Satisfied with area,civic,Community vitality,satis
 Feel local government is responsive,civic,Community vitality,respons
 Think residents are able to obtain jobs,civic,Community vitality,jobs
-Good place to raise kids,civic,Community vitality,kids
-Have some influence over local government,civic,Community vitality,infl
+Feel area is good place to raise kids,civic,Community vitality,kids
+Feel they have some influence over local government,civic,Community vitality,infl
 Food insecurity,econ,Economic security,food
 Financial insecurity,econ,Economic security,finance
 No bank account,econ,Economic security,bank
