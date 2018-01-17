@@ -174,7 +174,7 @@ class App extends React.Component {
 						</Grid.Row>
 						<Grid.Row>
 							<Grid.Column>
-								<Footer />
+								<Footer id={this.state.id} chamber={this.state.chamber} />
 							</Grid.Column>
 						</Grid.Row>
 					</Grid>

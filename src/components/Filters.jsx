@@ -66,7 +66,7 @@ export default class Filters extends React.Component {
 								value={this.props.indicator}
 								options={indicators}
 								onChange={this.props.onChange}
-								className="div5000"
+								className="div4000"
 							/>
 						</Form.Group>
 
